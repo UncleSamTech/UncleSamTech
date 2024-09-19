@@ -4,7 +4,7 @@
 <p>📚 I'm a Computing Science Graduate Student at the University of Alberta currently demystifying code completion in Visual Codes.</p>
 <p>👀 My research intersects Software Engineering, Data Engineering, Data Science and Language Models<p>
 <p>💞️ I built a resilent parser that unpacks a Scratch file and generates an Abstract Syntax Tree for easy analyis of Scratch program</p>
-<p>I am currently working on a Ranked BiDirectional Context Model built off BERT Model to improve code completion in Visual Codes</p>
+<p>💞️ I am currently working on a Ranked BiDirectional Context Model built off BERT Model to improve code completion in Visual Codes</p>
 <p>📫 Contact via siwuchuk@ualberta.ca</p>
 
 
