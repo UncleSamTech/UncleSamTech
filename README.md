@@ -3,10 +3,8 @@
 <p>My name is Samuel Iwuchukwu but you can call me Sam.</p>
 <p>📚 I'm a Computing Science Graduate Student at the University of Alberta currently demystifying code completion in Visual Codes.</p>
 <p>👀 My research intersects Software Engineering, Data Engineering, Data Science and Language Models<p>
-<p>💞️ I am eager to transform the field of solutions engineering by rigorously building first principles intelligent
-systems. With over five years of experience in developing innovative software solutions for both start-ups and
-large enterprises, I am pivoting to adopting large language models to infuse intelligence in Visual Codes.  I also have a Proven track record of successfully leading and empowering 10+ student software engineering teams during my graduate studies at University
-of Alberta, overseeing the development of impactful Android applications</p>
+<p>💞️ I built a resilent parser that unpacks a Scratch file and generates an Abstract Syntax Tree for easy analyis of Scratch program</p>
+<p>I am currently working on a Ranked BiDirectional Context Model built off BERT Model to improve code completion in Visual Codes</p>
 <p>📫 Contact via siwuchuk@ualberta.ca</p>
 
 
