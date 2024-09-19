@@ -33,9 +33,9 @@
   
 </div>
 <br>
-<div align="center"><a href="https://solved.ac/profile/UncleSamTech"><img align="center" src =http://mazassumnida.wtf/api/v2/generate_badge?boj=></a> <a href="https://github.com/UncleSamTech?tab=repositories">
+<!--<div align="center"><a href="https://solved.ac/profile/UncleSamTech"><img align="center" src =http://mazassumnida.wtf/api/v2/generate_badge?boj=></a> <a href="https://github.com/UncleSamTech?tab=repositories">
 	<img align="center" src =https://github-readme-stats.vercel.app/api/top-langs/?username=UncleSamTech&layout=compact&langs_count=8&exclude_repo=Digital_Image_Processing></a>
-</div>
+</div>-->
 
 <h3 align = "center"> Let's build incredible stuffs ☺ </h3>
 <div align="center">
