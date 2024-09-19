@@ -31,10 +31,6 @@ of Alberta, overseeing the development of impactful Android applications</p>
   <img src = "https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src = "https://img.shields.io/badge/NLTK-003B57?style=for-the-badge&logo=nltk&logoColor=white">
-  <img src = "https://img.shields.io/badge/KenLM-00599C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lsbHRjPW5vbmUiIGZpbGw9Im5vbmUiPjxyZWN0IHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0iIzAwNTk5QyIvPjwvc3ZnPg==&logoColor=white">
-  <img src = "https://img.shields.io/badge/KenLM-00599C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lsbHRjPW5vbmUiIGZpbGw9Im5vbmUiPjxyZWN0IHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0iIzAwNTk5QyIvPjwvc3ZnPg==&logoColor=white">
-  <img src = "https://img.shields.io/badge/BiLSTM-4A90E2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lsbHRjPW5vbmUiIGZpbGw9Im5vbmUiPjxyZWN0IHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0iIzRBOTBFMiIvPjwvc3ZnPg==&logoColor=white">
-  <img src = "https://img.shields.io/badge/BERT-FFE156?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lsbHRjPW5vbmUiIGZpbGw9Im5vbmUiPjxyZWN0IHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0iI0ZGRTE1NiIvPjwvc3ZnPg==&logoColor=white">
   <img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   
 </div>
