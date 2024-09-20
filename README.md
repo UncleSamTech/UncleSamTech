@@ -3,10 +3,8 @@
 <p>My name is Samuel Iwuchukwu but you can call me Sam.</p>
 <p>📚 I am a Computing Science Graduate Student at the University of Alberta researching on Code Completion in Scratch Visual Code.</p>
 <p>📚 I am privileged to be supervised by an excellent researcher Professor <a href = "https://softwareprocess.es/homepage/index.html">Abram Hindle</a></p>
-<p>📚 My research was a ground up approach which involved extraction of Scratch datasets from github, preprocessing, analyzing and transformation of the datasets using the Scratch [parser](https://github.com/UncleSamTech/scratch_test_suite/blob/main/extract_scratch_revisions_all.py)</p>
 <p>👀 My research intersects Software Engineering, Data Engineering, Data Science and Language Models<p>
-<p>💞️ I built a resilent parser that unpacks a Scratch file and generates an Abstract Syntax Tree for easy analyis of Scratch program</p>
-<p>💞️ I am currently working on a Ranked BiDirectional Context Model built off BERT Model to improve code completion in Visual Codes</p>
+<p>💞️ I developed a resilient parser that generates an Abstract Syntax Tree from Scratch files for analysis, and I'm currently building a Ranked BiDirectional Context Model using BERT to enhance code completion in Visual Codes.</p>
 <p>📫 Contact via siwuchuk@ualberta.ca</p>
 
 
