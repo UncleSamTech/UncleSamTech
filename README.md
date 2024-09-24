@@ -4,7 +4,7 @@
 <p>📚 I am a Computing Science Graduate Student at the University of Alberta researching on Code Completion in Scratch Visual Code.</p>
 <p>📚 I am privileged to be supervised by an excellent researcher Professor <a href = "https://softwareprocess.es/homepage/index.html">Abram Hindle</a></p>
 <p>👀 My research intersects Software Engineering, Data Engineering, Data Science and Language Models<p>
-<p>💞️ I developed a resilient parser that generates an Abstract Syntax Tree from Scratch files for analysis, and I'm currently building a Ranked BiDirectional Context Model using BERT to enhance code completion in Visual Codes.</p>
+<p>💞️ I developed a resilient parser that unpacks and transforms a Scratch file into an Abstract Syntax Tree for analysis, and I'm currently building a Ranked BiDirectional Context Model using BERT to enhance code completion in Visual Codes.</p>
 <p>📫 Contact via siwuchuk@ualberta.ca</p>
 
 
