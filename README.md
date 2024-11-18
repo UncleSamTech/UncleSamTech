@@ -5,6 +5,7 @@
 <p>📚 I am privileged to be supervised by an excellent researcher Professor <a href = "https://softwareprocess.es/homepage/index.html">Abram Hindle</a></p>
 <p>👀 My research intersects Software Engineering, Data Engineering, Data Science and Language Models<p>
 <p>💞️ I developed a resilient parser that unpacks and transforms a Scratch file into an Abstract Syntax Tree for analysis, and I'm currently building a Ranked BiDirectional Context Model leveraging the state of the art BERT model to enhance code completion in Visual Codes.</p>
+<p> In the past, I worked with <a href = "https://www.neolife.com/">Neolife International</a> as a Software Engineer where I built numerous microservices and integrated payments gateways on our ecommerce front.<p>
 <p>📫 Contact via siwuchuk@ualberta.ca</p>
 
 
