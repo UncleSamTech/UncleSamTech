@@ -41,5 +41,15 @@
 
 <h3 align = "center"> Let's build incredible stuffs ☺ </h3>
 <div align="center">
-	<!--<a href="https://www.buymeacoffee.com/crystal1230"><img src="https://img.buymeacoffee.com/button-api/?text=Support my journey :)&emoji=🌱&slug=crystal1230&button_colour=abd1de&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>-->
+	
 </div>
+
+<div align="center">
+    <a href='https://git.io/streak-stats' style="margin-right: 10px">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=UncleSamTech&theme=tokyonight-duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=465&border=34EBDD&ring=EB0000&stroke=00EBC9" height="150"/>
+    </a>
+    <a href='https://github.com/Nandan-18' style="margin-right: 10px">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=UncleSamTech&show_icons=true&theme=radical&include_all_commits=true&border_radius=10" height="150">
+    </a>
+</div>
+<br>
