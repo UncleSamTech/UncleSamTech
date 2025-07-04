@@ -1,7 +1,7 @@
 <h1>Samuel Iwuchukwu</h1>
 <p>Hello!</p>
 <p>My name is Samuel Iwuchukwu but you can call me Sam.</p>
-<p>📚 I am a Computing Science Graduate Student at the University of Alberta researching suggesting next tokens of Scratch Visual Source Codes.</p>
+<p>📚 I recently completed my thesis-based masters in Computing Science from the University of Alberta where I developed theories to characterize changes in Scratch and applied language models and deep learning models to next token suggestions in Scratch visual source code.</p>
 <p>📚 I am privileged to be supervised by an excellent researcher Professor <a href = "https://softwareprocess.es/homepage/index.html">Abram Hindle</a></p>
 <p>👀 My research intersects Software Engineering, Data Engineering, Data Science, and Language Models<p>
 <p>💞️ I developed a resilient parser that unpacks and transforms a Scratch file into an Abstract Syntax Tree for analysis, and I'm currently building a Ranked BiDirectional Context Model leveraging BiLSTM model to suggest next tokens in Scratch3 Visual Source Codes.</p>
